@@ -10,11 +10,12 @@ Therefore, please follow the example format below.
 ##### BASIC INFORMATION:
 ```
 Platform          : Quest/PC
+Device            : quest1/quest2/quest2+link/vive+index/vive+wands etc.
 Version           : i.e. v49
 Department        : audio engine/interaction/visual/blocks etc.
 Brief description : Brief description of the bug
 ```
-*This information lets us know which build/version of the game has a problem*
+*This information lets us know which build/version of the PatchWorld has a problem*
 ##### STEPS TO REPRODUCE THE BUG:
 ```
 1. Opened hub
@@ -24,7 +25,7 @@ Brief description : Brief description of the bug
 *If we can't reproduce the bug, we can't fix it!*
 ##### WHAT I EXPECTED TO HAPPEN:
 ```
-I expected that patch 'NewWorld_0' will open.
+I expected that the patch 'NewWorld_0' will open.
 ```
 *Knowing what you were actually expecting to happen is much more helpful than only knowing what the error was.*
 ##### WHAT HAPPENED INSTEAD:
@@ -32,4 +33,7 @@ I expected that patch 'NewWorld_0' will open.
 The patch did not open. A bird flew by the window.
 ```
 *This lets us know what the allegedly bad result was.*  
-Thank you for helping us improve PatchWorld:heart:
+##### OPTIONAL ATTACHMENTS:
+*If applicable, add screenshots or the problematic patch itself to help explain your problem.*  
+  
+Thank you for helping us improve PatchWorld!:heart:
