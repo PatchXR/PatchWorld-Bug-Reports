@@ -12,7 +12,7 @@ Therefore, please follow the example format below.
 Platform          : Quest/PC
 Device            : quest1/quest2/quest2+link/vive+index/vive+wands etc.
 Version           : i.e. v49
-Department        : audio engine/interaction/visual/blocks etc.
+Department        : audio engine/interface/visual/blocks etc.
 Brief description : Brief description of the bug
 ```
 *This information lets us know which build/version of the PatchWorld has a problem*
