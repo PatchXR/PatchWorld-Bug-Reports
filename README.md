@@ -1,5 +1,5 @@
 # PatchWorld-public-bug-reports
-This repository doesn't have any code, it's just for beta testers, community members and special users of apps made by PatchXR to report bugs in our software.
+This repository doesn't have any code, it's just for beta testers, community members and special users of PatchWorld made by PatchXR to report bugs in our software.
 
 # Instructions
 ### 1. Log in / Sign up for a Github account  
